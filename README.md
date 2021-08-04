@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <h3 align="center"> 
+  <h3> 
     Visitors Count<br>
     <img align="center" src="https://profile-counter.glitch.me/dachuan9e/count.svg" />
   </h3>
@@ -9,9 +9,6 @@
 
 <a href="http://wwj.icu">
   <img align="left" height=170px src="https://github-readme-stats.vercel.app/api?username=dachuan9e&show_icons=true&count_private=true" />
-</a>
-<a href="http://wwj.icu">
-  <img align="left" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dachuan9e&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
 
 <!--
