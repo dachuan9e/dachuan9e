@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-<div>
-  <h3> 
-    Visitors Count<br>
-    <img align="center" src="https://profile-counter.glitch.me/dachuan9e/count.svg" />
-  </h3>
-</div>
-
-<a href="http://wwj.icu">
-  <img align="left" height=170px src="https://github-readme-stats.vercel.app/api?username=dachuan9e&show_icons=true&count_private=true" />
-</a>
-
 <!--
 **dachuan9e/dachuan9e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
